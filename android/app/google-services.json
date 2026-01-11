@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245124396648",
+    "project_id": "journal-firebase-be716",
+    "storage_bucket": "journal-firebase-be716.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245124396648:android:fdd050dc6dcb838cacaddd",
+        "android_client_info": {
+          "package_name": "iwima.lily.journal_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPrQkAz-BHaTZquXbLhpzSXQM5fMU3Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
